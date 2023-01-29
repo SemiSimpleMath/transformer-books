@@ -1,7 +1,7 @@
 import sys
 
 # setting path
-sys.path.append('../dl_lib/transformer')
+sys.path.append('../transformer_libs')
 import torch
 import torch.nn as nn
 import tokenizer
